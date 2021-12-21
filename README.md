@@ -1,5 +1,5 @@
 
-# Tiny Lunchbox
+# Mini Lunchbox
 
 
 I finally started playing with a Creality Ender3 Pro 3D printer that I bought more than 2 years
